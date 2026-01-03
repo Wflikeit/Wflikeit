@@ -12,7 +12,7 @@ I have participated in numerous hackathons, gaining valuable experience and expa
 - **Llama Hackathon 2024**
 - **NASA Space Apps Challange Stalowa Wola 2025**
 - **HackYeah 2025**
-- **JetBrains Student Tech Quiz** - **1st in Poland, 6th Worldwide  
+- **JetBrains Student Tech Quiz** - **1st in Poland, 6th Worldwide**  
 
 ## Experience summary
 

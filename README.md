@@ -3,7 +3,16 @@
 - Sourcery Academy Graduate
 - ICT student at WUT
 - Jr Software Engineer at Cognizant (from 01.2024)
-- 2nd place at HackYeah 2024 (health category)
+
+## Hackathon Projects  
+
+I have participated in numerous hackathons, gaining valuable experience and expanding my skills. Some of the events I took part in:  
+
+- **HackYeah 2024** – **2nd place** in the Lifestyle category  
+- **Llama Hackathon 2024**
+- **NASA Space Apps Challange Stalowa Wola 2025**
+- **HackYeah 2025**
+- **JetBrains Student Tech Quiz** - **1st in Poland, 6th Worldwide  
 
 ## Experience summary
 
